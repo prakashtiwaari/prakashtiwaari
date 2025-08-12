@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, JAVA, Mongodb**
 
-- ⚡ Fun fact **I love riding bikes** [@TheRedRider - Youtube Channel](https://www.youtube.com/@theredriderr)
+- ⚡
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
